@@ -30,7 +30,7 @@ const RecentPosts = ( props ) => (
         <li><a href="https://medium.com/@btfurther/week-10-on-the-bt-digital-intensive-557768afeaad">Week 11 - Importance of Test Driven Development, unit testing & functional testing.
         <span>07.02.19</span></a></li>
         <li><a href="https://medium.com/@btfurther/week-11-on-the-bt-digital-intensive-9f39b0b31909">Week 12 - ERDs, primary and foriegn keys, using SQL with Data Manipulation Language and the basics of cyber security.
-        <span>14.02.2019</span></a></li>
+        <span>14.02.19</span></a></li>
     </ul>
 
 </Col>

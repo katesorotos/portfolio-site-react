@@ -21,8 +21,8 @@ const Jumbotron = ( props ) => (
                         <h2>a London based &nbsp;
                     <div className={classes.word}>
                         <span style={{fontSize: "22px", marginTop: "52px"}}> front end developer.</span>
-                        <span style={{fontSize: "22px", marginTop: "52px"}}> sequin enthusiast.</span>
-                        <span style={{fontSize: "22px", marginTop: "52px"}}> fan of tech  &amp; techno.</span>
+                        <span style={{fontSize: "22px", marginTop: "52px"}}> foodie.</span>
+                        <span style={{fontSize: "22px", marginTop: "52px"}}> design enthusiast.</span>
                         <span style={{fontSize: "22px", marginTop: "52px"}}> marmite lover.</span>
                         <span style={{fontSize: "22px", marginTop: "52px"}}> girl coder.</span> 
                         </div>
