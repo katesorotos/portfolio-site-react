@@ -1,0 +1,51 @@
+.Portfolio {
+    font-family: 'Fjalla One', sans-serif;
+    padding: 35px 0;
+
+}
+.Portfolio h2 {
+  text-decoration: overline;
+  font-weight: bold;
+}
+ h4 {
+    font-size: 20px;
+ }
+h3 {
+    font-size: 20px;
+  }
+
+.projects {
+    padding: 35px 0;
+  }
+.web h3 {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+  }
+  .python {
+    margin-bottom: 50px;
+  }
+.python h3{
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+  }
+.python h4 {
+    text-decoration: none !important;
+    font-size: 20px;
+  }
+span a{
+    color: #f37;
+    text-decoration: underline;
+  }
+.web_dev a h4 {
+    text-decoration: underline !important;
+    color:  #343a40 !important;
+  }
+.web_dev h5 {
+    font-size: 15px;
+  }
+
+  .web_dev span {
+    font-size: 12px !important;
+  }

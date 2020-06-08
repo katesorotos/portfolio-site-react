@@ -1,0 +1,26 @@
+.posts {
+    font-family: 'Fjalla One', sans-serif;
+}
+.posts ul li {
+    list-style-type: none;
+  }
+.posts h2 {
+    padding: 20px 0;
+    text-decoration: overline;
+  }
+.posts h3 {
+    font-size: 22px;
+    padding-bottom: 10px;
+  }
+.posts a {
+    font-size: 18px;
+    color: #343a40;
+    line-height: 25px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+  }
+.posts li span {
+    font-size: 15px;
+    color: #f37;
+    text-decoration: none;
+  }

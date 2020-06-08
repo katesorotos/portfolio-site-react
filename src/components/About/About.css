@@ -1,0 +1,13 @@
+.About {
+    font-family: 'Fjalla One', sans-serif;
+}
+.About h2 {
+    text-decoration: overline;
+  font-weight: bold;
+}
+.About h4 {
+    font-size: 20px;
+ }
+.About h3 {
+    font-size: 20px;
+  }
