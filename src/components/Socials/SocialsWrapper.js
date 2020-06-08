@@ -1,5 +1,6 @@
 import styled from 'styled-components';
-import fadeInUpward from '../../Styles/_animations/FadeInUpward';
+import fadeInUpward from '../../Styles/_animations/FadeInUpward'
+
 
 const SocialsWrapper = styled.div`
 

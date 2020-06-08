@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 const FooterWrapper = styled.footer`
+  font-family: "Fjalla One", "sans-serif";
   margin-top: 15rem;
   margin-bottom: 1rem;
   text-align: center;

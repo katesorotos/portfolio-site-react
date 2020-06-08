@@ -12,7 +12,10 @@ const Socials = () => {
     return (
 
 <SocialsWrapper>
-<ul className="introSocialLinks">
+<ul className="introSocialLinks" style={{
+    marginBottom: "10px",
+    marginLeft: "auto",
+    marginRight: "auto"}}>
 <li>
   <a
     id='icon'
